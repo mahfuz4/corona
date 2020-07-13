@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+.logo {
+  display: flex;
+  font-size: 28.5px;
+  font-weight: bold;
+  font-family: Robot;
+  margin-top: 10px;
+  margin-left: 15px;
+  color: #535176;
+}
+
+.logo p {
+  margin-right: 10px;
+
+}
